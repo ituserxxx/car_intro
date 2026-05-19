@@ -1,2 +1,2 @@
- 
 requests>=2.31.0
+rarfile>=4.0
