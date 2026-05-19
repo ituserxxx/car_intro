@@ -1,0 +1,582 @@
+[
+    {
+        "parten": "changchang_xi",
+        "chrild": [
+            {
+                "name": "哈弗",
+                "dir_name": "hafo",
+                "url": "https://www.haval.com.cn/manual.html",
+                "pdfs": [
+                    "2023款新哈弗H5.pdf",
+                    "二代哈弗H9.pdf",
+                    "二代哈弗枭龙MAX.pdf",
+                    "哈弗H6L.pdf",
+                    "哈弗H6S.pdf",
+                    "哈弗H6国潮版.pdf",
+                    "哈弗H6新能源.pdf",
+                    "哈弗H6经典版.pdf",
+                    "哈弗H9.pdf",
+                    "哈弗M6 PLUS.pdf",
+                    "哈弗二代大狗.pdf",
+                    "哈弗二代大狗PHEV.pdf",
+                    "哈弗大狗2026款.pdf",
+                    "哈弗大狗PLUS PHEV.pdf",
+                    "哈弗大狗PLUS.pdf",
+                    "哈弗枭龙.pdf",
+                    "哈弗枭龙MAX.pdf",
+                    "哈弗猛龙.pdf",
+                    "哈弗猛龙2026款.pdf",
+                    "哈弗猛龙燃油版.pdf",
+                    "哈弗神兽.pdf",
+                    "哈弗赤兔.pdf",
+                    "哈弗酷狗.pdf",
+                    "新一代哈弗H6.pdf",
+                    "新哈弗H5.pdf",
+                    "第三代哈弗H6.pdf"
+                ]
+            },
+            {
+                "name": "坦克",
+                "dir_name": "tank",
+                "url": "https://www.tanksuv.com/download.html",
+                "pdfs": [
+                    "2024款坦克300（挑战者、征服者） -使用说明书.pdf",
+                    "2024款坦克300（穿越者） -使用说明书.pdf",
+                    "2025款坦克300 -使用说明书.pdf",
+                    "2025款坦克300 Hi4-T -使用说明书.pdf",
+                    "全新坦克400 Hi4-T -使用说明书.pdf",
+                    "全新坦克400 Hi4-Z -使用说明书.pdf",
+                    "全新坦克400 柴油版 -使用说明书.pdf",
+                    "全新坦克400 汽油版 -使用说明书.pdf",
+                    "全新坦克500 3.0T -使用说明书.pdf",
+                    "全新坦克500 Hi4-T -使用说明书.pdf",
+                    "全新坦克500 Hi4-Z -使用说明书.pdf",
+                    "全新坦克700 Hi4-T -使用说明书.pdf",
+                    "全新坦克700 Hi4-Z -使用说明书.pdf",
+                    "坦克300 Hi4-T -使用说明书.pdf",
+                    "坦克300（坦克游侠、风林铁骑、铁骑02、赛博坦克、赛博骑士） -使用说明书.pdf",
+                    "坦克300（城市版） -使用说明书.pdf",
+                    "坦克300（越野版、边境限定版、莫奈尔限定版） -使用说明书.pdf",
+                    "坦克330 -使用说明书.pdf",
+                    "坦克400 -使用说明书.pdf",
+                    "坦克400 Hi4-T -使用说明书.pdf",
+                    "坦克500 -使用说明书.pdf",
+                    "坦克500 Hi4-T -使用说明书.pdf",
+                    "坦克500 Hi4-Z -使用说明书.pdf",
+                    "坦克700 Hi4-T -使用说明书.pdf",
+                    "坦克700 Hi4-T 限定版 -使用说明书.pdf",
+                    "坦克SUV冰雪驾驶体验手册.pdf",
+                    "坦克SUV越野安全手册.pdf",
+                    "坦克SUV越野整备手册.pdf"
+                ]
+            },
+            {
+                "name": "长城炮",
+                "dir_name": "changcheng_pao",
+                "url": "https://pickup.gwm.com.cn/tool-manuals.html",
+                "pdfs": [
+                    "乘用炮.pdf",
+                    "乘用炮EV.pdf",
+                    "商用炮.pdf",
+                    "商用炮EV.pdf",
+                    "山海炮Hi4-T 全球版.pdf",
+                    "山海炮Hi4-T 性能版.pdf",
+                    "山海炮乘用版.pdf",
+                    "山海炮穿越版 & 性能版.pdf",
+                    "火炮.pdf",
+                    "越野炮.pdf",
+                    "金刚炮.pdf",
+                    "风骏5.pdf",
+                    "风骏7.pdf",
+                    "风骏7EV.pdf"
+                ]
+            },
+            {
+                "name": "魏派",
+                "dir_name": "weipai",
+                "url": "https://www.wey.com/notebook.html",
+                "pdfs": [
+                    "魏牌VV5.pdf",
+                    "魏牌VV6.pdf",
+                    "魏牌VV7 GT PHEV.pdf",
+                    "魏牌VV7 GT.pdf",
+                    "魏牌VV7 PHEV.pdf",
+                    "魏牌VV7.pdf",
+                    "魏牌全新蓝山.pdf",
+                    "魏牌全新蓝山智能进阶版.pdf",
+                    "魏牌全新高山（福祉版）.pdf",
+                    "魏牌全新高山（高山7、高山8、高山9）.pdf",
+                    "魏牌拿铁DHT-PHEV.pdf",
+                    "魏牌拿铁DHT.pdf",
+                    "魏牌摩卡.pdf",
+                    "魏牌摩卡DHT-PHEV.pdf",
+                    "魏牌新摩卡DHT-PHEV.pdf",
+                    "魏牌新摩卡Hi4.pdf",
+                    "魏牌玛奇朵DHT-PHEV.pdf",
+                    "魏牌玛奇朵DHT.pdf",
+                    "魏牌蓝山DHT-PHEV.pdf",
+                    "魏牌高山.pdf",
+                    "魏牌高山四驱行政加长版.pdf"
+                ]
+            },
+            {
+                "name": "欧拉",
+                "dir_name": "oula",
+                "url": "https://www.oraev.com/modelmanual.html",
+                "pdfs": []
+            }
+        ]
+    },
+    {
+        "parten": "byd_xi",
+        "chrild": [
+            {
+                "name": "比亚迪",
+                "dir_name": "byd",
+                "url": "https://www.byd.com/cn/user-manual",
+                "pdfs": [
+                    "2021款唐EV用户手册.pdf",
+                    "2022款唐EV用户手册231225.pdf",
+                    "2025款唐DM-i用户手册25.1.21.pdf",
+                    "2025款宋L EV用户手册.pdf",
+                    "2025款宋PLUS DM-i.pdf",
+                    "2025款宋PLUS EV.pdf",
+                    "2025款汉DM-i用户手册0414.pdf",
+                    "2025款汉EV.pdf",
+                    "2025款海豚用户手册.pdf",
+                    "2025款海豹.pdf",
+                    "2026款宋L DM-i.pdf",
+                    "2026款宋Pro DM-i.pdf",
+                    "2026款海狮06EV.pdf",
+                    "2026款海豹05DM-i用户手册251020.pdf",
+                    "2026款海豹06GT.pdf",
+                    "2026款秦L DM-i.pdf",
+                    "2026款秦PLUS DM-i.pdf",
+                    "20款E2用户手册.pdf",
+                    "21款唐DM用户手册202106版.pdf",
+                    "21款唐EV用户手册240204.pdf",
+                    "23款汉EV冠军版手册.pdf",
+                    "24款汉DMI荣耀版.pdf",
+                    "25款海鸥用户手册.pdf",
+                    "26款海豹07DM-i用户手册10.14.pdf",
+                    "byd3s-manual201702.pdf",
+                    "byd3s-manual201702_1.pdf",
+                    "byd3s-manual201702_2.pdf",
+                    "byd3s-manual201702_3.pdf",
+                    "byd3s-manual201702_4.pdf",
+                    "byd3s-manual201702_5.pdf",
+                    "byd3s-manual201702_6.pdf",
+                    "byd3s-manual201702_7.pdf",
+                    "E2用户手册2310.pdf",
+                    "e5300-manual201702.pdf",
+                    "e5300-manual201702_1.pdf",
+                    "E5使用手册2018.11.14.pdf",
+                    "E5使用手册2018.11.14_1.pdf",
+                    "e6-manual201701.pdf",
+                    "e6-manual201701_1.pdf",
+                    "EL用户手册-20231225-更新.pdf",
+                    "EL用户手册-20231225-更新_1.pdf",
+                    "f0-manual201504.pdf",
+                    "f0-manual201504_1.pdf",
+                    "f3-3-201601.pdf",
+                    "F6使用手册1-93页.pdf",
+                    "F6使用手册1-93页_1.pdf",
+                    "F6使用手册94-197页.pdf",
+                    "F6使用手册94-197页_1.pdf",
+                    "g5-manual201701.pdf",
+                    "g5-manual201701_1.pdf",
+                    "qinev300-manual201702.pdf",
+                    "s6-manual201701.pdf",
+                    "s6-manual201701_1.pdf",
+                    "s7-manual201701.pdf",
+                    "s7-manual201701_1.pdf",
+                    "SAFG_SY_A19-10001_018_快速阅读202002版.pdf",
+                    "SAFG_SY_A19-10001_018_用户手册202002版.pdf",
+                    "song-ev300-manual201701.pdf",
+                    "song-manual201701.pdf",
+                    "songdm-manual201701.pdf",
+                    "surui-manual201701.pdf",
+                    "tang-manual201701.pdf",
+                    "tang100-201701.pdf",
+                    "yuan-manual201605.pdf",
+                    "yuan-manual201605_1.pdf",
+                    "元PLUS 冠军版.pdf",
+                    "元plus.pdf",
+                    "元PLUS荣耀版.pdf",
+                    "元Pro用户手册202202版2022.1.4.pdf",
+                    "元Pro用户手册202202版2022.1.4_1.pdf",
+                    "元UP国内款中文用户手册-250530.pdf",
+                    "元UP智驾版.pdf",
+                    "全新一代唐DM使用手册.pdf",
+                    "全新一代唐EV使用手册201902版.pdf",
+                    "全新一代唐使用手册.pdf",
+                    "全新一代唐使用手册_1.pdf",
+                    "全新一代宋.pdf",
+                    "全新一代宋DM.pdf",
+                    "全新一代宋EV.pdf",
+                    "唐DM-i冠军版用户手册_231225.pdf",
+                    "唐DM-i智驾版.pdf",
+                    "唐DM-i用户手册_231225.pdf",
+                    "唐DM-i荣耀版用户手册.pdf",
+                    "唐DM-p冠军版用户手册231218.pdf",
+                    "唐DM-p用户手册_231222.pdf",
+                    "唐EV冠军版和荣耀版用户手册_.pdf",
+                    "唐L+DM用户手册_250801.pdf",
+                    "唐L+EV用户手册_250801.pdf",
+                    "夏用户手册_250905.pdf",
+                    "宋L DM-i智驾版.pdf",
+                    "宋L DM-i用户手册.pdf",
+                    "宋LEV智驾版用户手册1031.pdf",
+                    "宋MAX升级版用户手册.pdf",
+                    "宋MAX燃油版使用手册——2018-9-3.pdf",
+                    "宋MAX电动版(EV)用户手册.pdf",
+                    "宋PLUS DM-i 智驾版用户手册.pdf",
+                    "宋PLUS EV.pdf",
+                    "宋PLUS EV冠军版＆荣耀版.pdf",
+                    "宋PLUS EV智驾版.pdf",
+                    "宋PLUS用户手册.pdf",
+                    "宋Pro DM-i.pdf",
+                    "宋Pro DM-i冠军版＆荣耀版.pdf",
+                    "宋Pro DM-i智驾版.pdf",
+                    "宋Ultra EV.pdf",
+                    "宋电动(SA2E)使用手册-2019.7.4.pdf",
+                    "宋电动(SA2E)快速阅读-2019.7.4.pdf",
+                    "宋经典21款使用手册.pdf",
+                    "护卫舰07 用户手册.pdf",
+                    "比亚迪F3DM轿车使用手册201112版.pdf",
+                    "比亚迪F3DM轿车使用手册201112版_1.pdf",
+                    "比亚迪M6轿车使用手册201701版.pdf",
+                    "比亚迪SA2H用户手册2019-7-3.pdf",
+                    "比亚迪元SCEV-19款用户手册.pdf",
+                    "比亚迪元（SCEV）用户手册2019.1.2.pdf",
+                    "比亚迪全新秦EV 用户手册3.6.pdf",
+                    "比亚迪全新秦用户手册.pdf",
+                    "比亚迪宋MAX DM-i用户手册——20230227.pdf",
+                    "比亚迪宋MAX双模用户手册.pdf",
+                    "比亚迪宋MAX燃油款用户手册.pdf",
+                    "比亚迪宋SA2F快速阅读2019-7-4.pdf",
+                    "比亚迪宋SA2F用户手册2019-7-5.pdf",
+                    "比亚迪宋SA2H快速阅读2019-7-2.pdf",
+                    "比亚迪思锐乘用车使用手册(201401版).pdf",
+                    "比亚迪秦Pro DM  用户手册2019.3.28.pdf",
+                    "比亚迪秦Pro燃油用户手册2019.2.25.pdf",
+                    "比亚迪秦（HADF）快速阅读2018.10.22.pdf",
+                    "比亚迪秦（HADF）用户手册2018.11.22.pdf",
+                    "汉DM-i智驾版-长续航版.pdf",
+                    "汉DM-i智驾版.pdf",
+                    "汉DM（HCB）用户手册——2022.2.21.pdf",
+                    "汉EV （HCEA）用户手册202203版.pdf",
+                    "汉L DM.pdf",
+                    "汉L EV.pdf",
+                    "海狮 07 EV.pdf",
+                    "海狮05DM-i.pdf",
+                    "海狮05DM-i智驾版.pdf",
+                    "海狮05EV用户手册基础版25.9.19.pdf",
+                    "海狮06DMi（SHH）项目用户手册_上传官网.pdf",
+                    "海狮06EV.pdf",
+                    "海狮07 EV智驾版.pdf",
+                    "海狮07DM-i.pdf",
+                    "海豚智驾版用户手册.pdf",
+                    "海豹.pdf",
+                    "海豹05用户手册.pdf",
+                    "海豹06DM-i 超享版.pdf",
+                    "海豹06DM-i旅行版.pdf",
+                    "海豹06DM-i智驾版.pdf",
+                    "海豹06DM-i用户手册.pdf",
+                    "海豹06EV.pdf",
+                    "海豹06GT智驾版用户手册.pdf",
+                    "海豹06GT用户手册.pdf",
+                    "海豹07DM-i+用户手册+10.14.pdf",
+                    "海豹07DM-i智驾版+用户手册+10.14.pdf",
+                    "海豹07EV.pdf",
+                    "海豹DM-i用户手册.pdf",
+                    "海豹冠军版.pdf",
+                    "海豹智驾版.pdf",
+                    "海鸥智驾版用户手册 (2).pdf",
+                    "秦100使用手册201805版.pdf",
+                    "秦EV450-18款用户手册20180911_201803版.pdf",
+                    "秦L DM用户手册.pdf",
+                    "秦L EV.pdf",
+                    "秦LDM-i智驾版用户手册.pdf",
+                    "秦PLUS EV 2023冠军版用户手册.pdf",
+                    "秦PLUS EV_用户手册.pdf",
+                    "秦plusDMi用户手册.pdf",
+                    "秦plusDMi用户手册_1.pdf",
+                    "秦pro DM 201803.pdf",
+                    "秦Pro EV  201902.pdf",
+                    "秦pro EV 201802.pdf",
+                    "秦Pro超越版 燃油 用户手册及快捷指南202003版.pdf",
+                    "秦用户手册201501版.pdf",
+                    "第二代元PLUS智驾版用户手册更新-251009.pdf",
+                    "第二代宋Pro DM-i用户手册.pdf",
+                    "第二代宋Pro用户手册.pdf",
+                    "第二代秦plus+dmi+智驾版用户手册.pdf",
+                    "第二代秦plus+ev+智驾版用户手册.pdf",
+                    "驱逐舰05 23款用户手册.pdf"
+                ]
+            }
+        ]
+    },
+    {
+        "parten": "fengtian_xi",
+        "chrild": [
+            {
+                "name": "铂智7",
+                "dir_name": "bozhi7",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=bozhi7",
+                "pdfs": [
+                    "铂智7用户手册-2603版（01999-YL003）.pdf"
+                ]
+            },
+            {
+                "name": "铂智3X",
+                "dir_name": "bozhi3x",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=bozhi3X",
+                "pdfs": [
+                    "铂智3X用户手册-2503版本（01999YL001）.pdf",
+                    "铂智3X用户手册-2506版本（01999YL001）.pdf",
+                    "铂智3X用户手册-2601版本（01999YL001）.pdf"
+                ]
+            },
+            {
+                "name": "铂智4X",
+                "dir_name": "bozhi4x",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=bZ4X",
+                "pdfs": [
+                    "bZ4X用户手册-2303版（01999-0R184）.pdf",
+                    "铂智4X用户手册-2312版（01999-0R119）.pdf",
+                    "铂智4X用户手册-2411版（01999-0R189）.pdf"
+                ]
+            },
+            {
+                "name": "汉兰达",
+                "dir_name": "hanlanda",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=4highlander",
+                "pdfs": [
+                    "2024款汉兰达HEV用户手册-2405版（01999-0E203）.pdf",
+                    "2024款汉兰达汽油版用户手册-2405版（01999-0E202）.pdf",
+                    "2026款汉兰达智能电混双擎用户手册-2509版（01999-0E053）.pdf",
+                    "2026款汉兰达汽油版用户手册-2509版（01999-0E052）.pdf",
+                    "全新第四代汉兰达HEV用户手册-2304版（01999-0E180）.pdf",
+                    "全新第四代汉兰达汽油版用户手册-2303版（01999-0E210）.pdf"
+                ]
+            },
+            {
+                "name": "赛那",
+                "dir_name": "saina",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=sienna",
+                "pdfs": [
+                    "2026款赛那智能电混双擎用户手册-2509版（01999-08075）.pdf",
+                    "赛那用户手册-2303版（01999-08054）.pdf",
+                    "赛那用户手册-2404版（01999-08059）.pdf"
+                ]
+            },
+            {
+                "name": "凯美瑞",
+                "dir_name": "kaimeirui",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=camryxle",
+                "pdfs": [
+                    "2026款凯美瑞智能电混双擎用户手册-2507版（01999-06154）.pdf",
+                    "2026款凯美瑞汽油版用户手册-2507版（01999-06155）.pdf",
+                    "全新第9代凯美瑞智能汽油版用户手册-2403版（01999-06272）.pdf",
+                    "全新第9代凯美瑞智能电混双擎用户手册-2403版（01999-06271）.pdf"
+                ]
+            },
+            {
+                "name": "凯美瑞智能电混双擎",
+                "dir_name": "kaimeiruizhinengdianhunshuangqing",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=camryhev",
+                "pdfs": [
+                    "2026款凯美瑞智能电混双擎用户手册-2507版（01999-06154）.pdf",
+                    "全新第9代凯美瑞智能电混双擎用户手册-2403版（01999-06271）.pdf"
+                ]
+            },
+            {
+                "name": "威飒",
+                "dir_name": "weisa",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=venza",
+                "pdfs": [
+                    "威飒HEV用户手册-2303版（01999-0E163）.pdf",
+                    "威飒HEV用户手册-2406版（01999-0E230）.pdf",
+                    "威飒汽油版用户手册-2303版（01999-0E162）.pdf",
+                    "威飒汽油版用户手册-2406版（01999-0E229）.pdf"
+                ]
+            },
+            {
+                "name": "威飒智能电混双擎",
+                "dir_name": "weisazhinengdianhunshuangqing",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=venzaphev",
+                "pdfs": [
+                    "威飒HEV用户手册-2303版（01999-0E163）.pdf",
+                    "威飒HEV用户手册-2406版（01999-0E230）.pdf"
+                ]
+            },
+            {
+                "name": "威兰达",
+                "dir_name": "weilanda",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=wildlander",
+                "pdfs": [
+                    "全新换代威兰达双擎版用户手册-2512版（01999-0R178）.pdf",
+                    "全新换代威兰达汽油版用户手册-2512版（01999-0R177）.pdf",
+                    "威兰达HEV版用户手册-2304版（01999-0R085）.pdf",
+                    "威兰达HEV用户手册-2405版（01999-0R154）.pdf",
+                    "威兰达PHEV用户手册-2304版（01999-0R091）.pdf",
+                    "威兰达PHEV用户手册-2403版（01999-0R065）.pdf",
+                    "威兰达PHEV用户手册-2405版（01999-0R046）.pdf",
+                    "威兰达汽油版用户手册-2304版（01999-0R084）.pdf",
+                    "威兰达汽油版用户手册-2405版（01999-0R153）.pdf"
+                ]
+            },
+            {
+                "name": "威兰达智能电混双擎",
+                "dir_name": "weilandazhinengdianhunshuangqing",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=wildlanderhybrid",
+                "pdfs": [
+                    "威兰达HEV版用户手册-2304版（01999-0R085）.pdf",
+                    "威兰达HEV用户手册-2405版（01999-0R154）.pdf",
+                    "威兰达PHEV用户手册-2304版（01999-0R091）.pdf",
+                    "威兰达PHEV用户手册-2403版（01999-0R065）.pdf",
+                    "威兰达PHEV用户手册-2405版（01999-0R046）.pdf"
+                ]
+            },
+            {
+                "name": "威兰达智能插电双擎",
+                "dir_name": "weilandazhinengchadianshuangqing",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=wildlanderphev",
+                "pdfs": [
+                    "威兰达PHEV用户手册-2304版（01999-0R091）.pdf",
+                    "威兰达PHEV用户手册-2403版（01999-0R065）.pdf",
+                    "威兰达PHEV用户手册-2405版（01999-0R046）.pdf"
+                ]
+            },
+            {
+                "name": "雷凌",
+                "dir_name": "leiling",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=levin",
+                "pdfs": [
+                    "1.2T雷凌汽油版用户手册-2304版（01999-02679）.pdf",
+                    "1.2T雷凌汽油版用户手册-2403版（01999-02704）.pdf",
+                    "全新雷凌L双擎版用户手册-2512版（01999-02713）.pdf",
+                    "全新雷凌L油版用户手册-2512版（01999-02712）.pdf",
+                    "雷凌HEV用户手册-2304版（01999-02598）.pdf",
+                    "雷凌HEV用户手册2403版（01999-02629）【对应旧品番01999-02598内容更新】.pdf",
+                    "雷凌HEV用户手册2407版（01999-02702）.pdf",
+                    "雷凌汽油版用户手册-2304版（01999-02597）.pdf"
+                ]
+            },
+            {
+                "name": "雷凌智能电混双擎",
+                "dir_name": "leilingzhinengdianhunshuangqing",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=levinhybrid",
+                "pdfs": [
+                    "雷凌HEV用户手册-2304版（01999-02598）.pdf",
+                    "雷凌HEV用户手册2403版（01999-02629）【对应旧品番01999-02598内容更新】.pdf",
+                    "雷凌HEV用户手册2407版（01999-02702）.pdf"
+                ]
+            },
+            {
+                "name": "锋兰达",
+                "dir_name": "fenglanda",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=frontlander",
+                "pdfs": [
+                    "2026款锋兰达智能电混双擎用户手册-2510版（01999-0A104）.pdf",
+                    "2026款锋兰达汽油版用户手册-2510版（01999-0A103）.pdf",
+                    "锋兰达HEV用户手册-2403版（01999-0A115）【对应旧品番01999-0A057内容更新】.pdf",
+                    "锋兰达HEV用户手册-2407版（01999-0A119）.pdf",
+                    "锋兰达HEV用户手册内页（01999-0A057）.pdf",
+                    "锋兰达汽油版用户手册-2407版（01999-0A118）.pdf",
+                    "锋兰达汽油版用户手册内页（01999-0A050）.pdf",
+                    "锋兰达用户手册-2403版（01999-0A114）【对应旧品番01999-0A050内容更新】.pdf"
+                ]
+            },
+            {
+                "name": "锋兰达智能电混双擎",
+                "dir_name": "fenglandazhinengdianhunshuangqing",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=frontlanderhev",
+                "pdfs": [
+                    "2026款锋兰达智能电混双擎用户手册-2510版（01999-0A104）.pdf"
+                ]
+            },
+            {
+                "name": "凌尚",
+                "dir_name": "lingshang",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=levingt",
+                "pdfs": [
+                    "凌尚HEV用户手册-2304版（01999-02646）.pdf",
+                    "凌尚HEV用户手册-2403版（01999-02630）【对应旧品番01999-02646内容更新】.pdf",
+                    "凌尚HEV用户手册-2407版（01999-02707）.pdf",
+                    "凌尚汽油版用户手册-2304版（01999-02647）.pdf",
+                    "凌尚汽油版用户手册-2407版（01999-02708）.pdf"
+                ]
+            },
+            {
+                "name": "凌尚智能电混双擎",
+                "dir_name": "lingshangzhinengdianhunshuangqing",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=levingthev",
+                "pdfs": [
+                    "凌尚HEV用户手册-2304版（01999-02646）.pdf",
+                    "凌尚HEV用户手册-2403版（01999-02630）【对应旧品番01999-02646内容更新】.pdf",
+                    "凌尚HEV用户手册-2407版（01999-02707）.pdf"
+                ]
+            },
+            {
+                "name": "埃尔法",
+                "dir_name": "aierfa",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=alphard",
+                "pdfs": [
+                    "埃尔法HV用户手册-2305版（01999-58258）.pdf"
+                ]
+            },
+            {
+                "name": "iA5",
+                "dir_name": "ia5",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=iA5",
+                "pdfs": [
+                    "iA5-用户手册2204版（8950005YAB0003）.pdf"
+                ]
+            },
+            {
+                "name": "致享",
+                "dir_name": "zhixiang",
+                "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=yarislzhixiang",
+                "pdfs": [
+                    "致享用户手册-2112版（01999-0D022）.pdf"
+                ]
+            }
+        ]
+    },
+    {
+        "parten": "dazhong_xi",
+        "chrild": [
+            {
+                "name": "大众",
+                "dir_name": "dazhong",
+                "url": "https://techcare.svw-volkswagen.com/khgg-sywh.html",
+                "pdfs": [
+                    "ID.3 使用维护说明书-202303.pdf",
+                    "ID.4 X  使用维护说明书-202303.pdf",
+                    "ID.6 X 使用维护说明书-202303.pdf",
+                    "POLO 使用维护说明书-202302.pdf",
+                    "全新途昂家族 使用维护说明书-202209.pdf",
+                    "凌渡L 使用维护说明书-202302.pdf",
+                    "威然 使用维护说明书-202303.pdf",
+                    "帕萨特 使用维护说明书-202303.pdf",
+                    "帕萨特插电混动 使用维护说明书-202210.pdf",
+                    "新辉昂 使用维护说明书-202207.pdf",
+                    "新途岳 使用维护说明书-202303.pdf",
+                    "朗逸 使用维护说明书-202303.pdf",
+                    "朗逸启航 使用维护说明书-202203.pdf",
+                    "朗逸新锐 使用维护说明书-202306.pdf",
+                    "朗逸纯电 使用维护说明书-202110.pdf",
+                    "桑塔纳 使用维护说明书-202209.pdf",
+                    "途安L 使用维护说明书-202302.pdf",
+                    "途岳纯电 使用维护说明书-202202.pdf",
+                    "途观L 使用维护说明书-202303.pdf",
+                    "途观L插电混动 使用维护说明书-202209.pdf",
+                    "途观X 使用维护说明书-202302.pdf",
+                    "途铠 使用维护说明书-202302.pdf"
+                ]
+            }
+        ]
+    }
+]

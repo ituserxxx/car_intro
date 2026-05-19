@@ -1,0 +1,27 @@
+[
+    {
+        "name": "哈弗",
+        "dir_name": "hafo",
+        "url": "https://www.haval.com.cn/manual.html"
+    },
+    {
+        "name": "坦克",
+        "dir_name": "tank",
+        "url": "https://www.tanksuv.com/download.html"
+    },
+    {
+        "name": "长城炮",
+        "dir_name": "changcheng_pao",
+        "url": "https://pickup.gwm.com.cn/tool-manuals.html"
+    },
+    {
+        "name": "魏派",
+        "dir_name": "weipai",
+        "url": "https://www.wey.com/notebook.html"
+    },
+    {
+        "name": "欧拉",
+        "dir_name": "oula",
+        "url": "https://www.oraev.com/modelmanual.html"
+    }
+]

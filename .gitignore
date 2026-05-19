@@ -2,14 +2,14 @@
 # 通用忽略（所有项目都不需要提交的文件）
 # ==============================================
 .DS_Store          # Mac 系统文件
-shturl.cc          # Windows 缩略图
+Thumbs.db          # Windows 缩略图
+desktop.ini        # Windows 系统文件
 .idea/             # JetBrains IDE（GoLand/IDEA等）
 .vscode/           # VS Code 配置（可选保留，按需删除）
 *.log              # 日志文件
 *.tmp              # 临时文件
 *.swp              # Vim 临时文件
 .env               # 环境变量（核心！绝对不能提交）
-.shturl.cc
 .env.*.local
 
 # ==============================================
@@ -31,22 +31,28 @@ build/
 .pytest_cache/
 .tox/
 .coverage
+.mypy_cache/
+.ruff_cache/
 
 # ==============================================
 # Vue / 前端项目忽略
 # ==============================================
-node_modules/      # 依赖包（最大的文件夹，必须忽略）
-dist/              # 打包产物
-build/
+*/node_modules/      # 依赖包（最大的文件夹，必须忽略）
+*/dist/              # 打包产物
+*/build/
 *.local
 .output/
 .nuxt/
 .vuepress/dist
 .cache/
 .temp/
+.eslintcache
+.stylelintcache
+yarn-error.log
 
 # ==============================================
 # Rust 项目忽略
 # ==============================================
 */target/           # 编译产物（必须忽略）
-shturl.cc/         # 【可选】库项目不提交，二进制项目可提交，按需保留
+# Cargo.lock       # 二进制项目建议提交，库项目可忽略。当前 web_rust 是二进制项目，故保留
+*/car_pdfs/

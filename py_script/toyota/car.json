@@ -1,0 +1,107 @@
+[
+    {
+        "name": "铂智7",
+        "dir_name": "bozhi7",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=bozhi7"
+    },
+    {
+        "name": "铂智3X",
+        "dir_name": "bozhi3x",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=bozhi3X"
+    },
+    {
+        "name": "铂智4X",
+        "dir_name": "bozhi4x",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=bZ4X"
+    },
+    {
+        "name": "汉兰达",
+        "dir_name": "hanlanda",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=4highlander"
+    },
+    {
+        "name": "赛那",
+        "dir_name": "saina",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=sienna"
+    },
+    {
+        "name": "凯美瑞",
+        "dir_name": "kaimeirui",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=camryxle"
+    },
+    {
+        "name": "凯美瑞智能电混双擎",
+        "dir_name": "kaimeiruizhinengdianhunshuangqing",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=camryhev"
+    },
+    {
+        "name": "威飒",
+        "dir_name": "weisa",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=venza"
+    },
+    {
+        "name": "威飒智能电混双擎",
+        "dir_name": "weisazhinengdianhunshuangqing",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=venzaphev"
+    },
+    {
+        "name": "威兰达",
+        "dir_name": "weilanda",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=wildlander"
+    },
+    {
+        "name": "威兰达智能电混双擎",
+        "dir_name": "weilandazhinengdianhunshuangqing",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=wildlanderhybrid"
+    },
+    {
+        "name": "威兰达智能插电双擎",
+        "dir_name": "weilandazhinengchadianshuangqing",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=wildlanderphev"
+    },
+    {
+        "name": "雷凌",
+        "dir_name": "leiling",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=levin"
+    },
+    {
+        "name": "雷凌智能电混双擎",
+        "dir_name": "leilingzhinengdianhunshuangqing",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=levinhybrid"
+    },
+    {
+        "name": "锋兰达",
+        "dir_name": "fenglanda",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=frontlander"
+    },
+    {
+        "name": "锋兰达智能电混双擎",
+        "dir_name": "fenglandazhinengdianhunshuangqing",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=frontlanderhev"
+    },
+    {
+        "name": "凌尚",
+        "dir_name": "lingshang",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=levingt"
+    },
+    {
+        "name": "凌尚智能电混双擎",
+        "dir_name": "lingshangzhinengdianhunshuangqing",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=levingthev"
+    },
+    {
+        "name": "埃尔法",
+        "dir_name": "aierfa",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=alphard"
+    },
+    {
+        "name": "iA5",
+        "dir_name": "ia5",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=iA5"
+    },
+    {
+        "name": "致享",
+        "dir_name": "zhixiang",
+        "url": "https://www.gac-toyota.com.cn/enjoy-service/usermanual/detail?detailCode=yarislzhixiang"
+    }
+]
